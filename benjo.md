@@ -1,6 +1,6 @@
-Turing Award Benjo 2018: Youshua bemjo
+# Turing Award Benjo 2018: Youshua bemjo
 
-La parola "kebab" è di origine persiana: la tradizione araba vuole che il piatto sia stato inventato nel medioevo da soldati persiani che usavano le loro spade per grigliare la carne sul fuoco in campo aperto.
+**La parola "kebab"** è di origine persiana: la tradizione araba vuole che il piatto sia stato inventato nel medioevo da soldati persiani che usavano le loro spade per grigliare la carne sul fuoco in campo aperto.
 
 La sua diffusione è legata alla poca disponibilità di combustibile per la cottura in molte zone in Oriente, che rendeva difficoltosa la cottura dei cibi di grandi dimensioni; inoltre, nelle città era più facile ottenere tagli di carne di piccola pezzatura in una macelleria.
 
